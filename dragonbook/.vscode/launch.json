@@ -2,6 +2,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "CodeLens (Launch) - App",
+			"request": "launch",
+			"mainClass": "cn.rectcircle.App",
+			"projectName": "dragonbook"
+		},
+		{
+			"type": "java",
 			"name": "CodeLens (Launch) - Postfix",
 			"request": "launch",
 			"mainClass": "cn.rectcircle.dragonbook.ch02.Postfix",
